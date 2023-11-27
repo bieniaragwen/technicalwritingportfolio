@@ -1,2 +1,2 @@
-# technicalwritingportfolio
-Gwen Bieniara's Technical Writing Portfolio 
+# Gwen Bieniara's Technical Writing Portfolio
+
