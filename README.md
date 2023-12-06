@@ -5,7 +5,6 @@
 
 | Technical Editing Example | Before and After |
 | ----| -----|
-- User Guide - Dolibarr Open Source 
-- User Guide - Oracle VM VirutalBox Re-write 
-- DITA HTML Output - Ledger (Fictional app)
-- API Documentation - ClothingFinder Fictional App.
+|User Guide| Dolibarr Open Source ERP and CRM Software| 
+|----| ----|
+|DITA Map User Guide Example of Structured Authoring| Ledger (fictional) Application|
