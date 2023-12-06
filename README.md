@@ -5,6 +5,6 @@
 
 | Deliverable | Description |
 | ----| -----|
-|Technical Editing Example | Before and After|
+|Technical Editing Example | Before and After Editing Oracle VM VirtualBox Documentation|
 |User Guide| Dolibarr Open Source ERP and CRM Software| 
 |DITA Map User Guide Example of Structured Authoring| Ledger (fictional) Application|
