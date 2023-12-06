@@ -6,5 +6,4 @@
 | Technical Editing Example | Before and After |
 | ----| -----|
 |User Guide| Dolibarr Open Source ERP and CRM Software| 
-|----| ----|
 |DITA Map User Guide Example of Structured Authoring| Ledger (fictional) Application|
