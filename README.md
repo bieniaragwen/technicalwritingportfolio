@@ -1,6 +1,6 @@
 # Gwen Bieniara's Technical Writing Portfolio
 -------
-### Welcome to my technical writing portfolio. I've collected several simple pieces that showcase my technical communication skillsets in structured and unstructured authoring, design prototyping, and technical editing.
+ Welcome to my technical writing portfolio. I've collected several simple pieces that showcase my technical communication skillsets in structured and unstructured authoring, design prototyping, and technical editing.
 -----------
 
 | Document | Document Type | Description |
