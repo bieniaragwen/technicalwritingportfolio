@@ -2,7 +2,7 @@
 
 ## Problem Statement 
 
-Oracle VM VirtualBox's documentation site is poorly written, disorganized, and information is difficult to find. This makes for a low quality user experience. 
+Oracle VM VirtualBox's documentation site is poorly written, disorganized, and information is difficult to find. This makes for a low quality user experience. A re-design of the entire documentation website 
 
 ## Before
 The current documentation site contains an outdated navigation system, making it difficult for readers to find the information they are looking for.
@@ -18,4 +18,3 @@ Develop a knowledge base website for VirtualBox's documentation to showcase how 
 
 ## After
 
-<img width="241" alt="Capture" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/e9ba318c-10c6-4df4-9365-a3ba23567f4a">
