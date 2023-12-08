@@ -11,4 +11,3 @@ This respository contains my technical writing portfolio. Included are several d
 |[Dolibarr User Guide](https://github.com/bieniaragwen/technicalwritingportfolio/blob/main/dolibarr_userguide%20-%20Gwen%20Bieniara.pdf)| PDF user guide created with Adobe Framemaker unstructured authoring| Contains three chapters of technical end-user content for Dolibarr Open Source ERP and CRM software.
 |Design Prototype of VirtualBox's Knowledge Base |Adobe XD Clickable Wireframes | A re-design of Oracle VM VirtualBox's documentation site turned into a knowledge base format.
 |Find a Dress Release Notes | Release notes | Describes upgrades, new features, and bug fixes for a fictional product.
-| DogWalker API Documentation | API documentation | 
