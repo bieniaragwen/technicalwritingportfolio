@@ -6,11 +6,15 @@ In this example, I have recontextualized Oracle VM VirtualBox's documentation si
 
 ## Before
 The current documentation site contains an outdated navigation system, making it difficult for readers to find the information they are looking for.
+
 <img width="956" alt="km virtualbox1old" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/e6b4776a-3c0f-46d6-bfc1-b88a66590fb1">
 
 
+## Solution 
 
+Develop a knowledge base website for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience.
 
 
 ## After
+
 <img width="241" alt="Capture" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/e9ba318c-10c6-4df4-9365-a3ba23567f4a">
