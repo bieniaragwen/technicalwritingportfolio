@@ -18,3 +18,4 @@ Develop a knowledge base website for VirtualBox's documentation to showcase how 
 
 ## After
 
+<img width="614" alt="wireframes" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/fd5ac219-08ea-4992-aaa9-7a04138c46e3">
