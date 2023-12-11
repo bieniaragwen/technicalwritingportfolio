@@ -8,16 +8,13 @@ Oracle VM VirtualBox's documentation site is poorly written, disorganized, and i
 The current documentation site contains an outdated navigation system, making it difficult for readers to find the information they are looking for.
 
 <img width="963" alt="km 1st" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/760c7a4a-a9e4-459f-b2cc-b3fbc75b75bc">
-
+<img width="581" alt="virrtualboxbefore" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/1117ae5b-4355-49ed-bb59-85b131b60b9d">
 
 
 ## Solution 
 
-Develop a knowledge base website for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience.
+Develop a knowledge base website prototype for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience. 
 
 
 ## After
 
-<img width="614" alt="wireframes" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/fd5ac219-08ea-4992-aaa9-7a04138c46e3">
-<img width="241" alt="Capture" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/3cdc7941-3bd8-4b18-a2d1-2184acf805b9">
-<img width="494" alt="knowledgebase wireframe" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/b46ff48b-4a0b-4eff-babb-9b9857a8c1a6">
