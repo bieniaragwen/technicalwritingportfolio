@@ -28,3 +28,7 @@ Within this clickable
 Click [here](https://xd.adobe.com/view/16edc068-d9ec-4343-af68-c946730e171e-43be/) to see a walkthrough of clickable wireframes from VirtualBox's newly imagined knowledge base website. 
 
 **Note:** Some wireframes contain different viewable porportion sizes for the sake of perspective.
+
+## Result
+
+This clickable prototype fits into a larger UX content strategy that prioritizes clean, efficient information, adherence to a consistent style guide, and thorough organization. A knowledge base system would greatly improve VirtualBox's website and documentation, allowing users to find information more efficiently. 
