@@ -31,4 +31,4 @@ Click [here](https://xd.adobe.com/view/16edc068-d9ec-4343-af68-c946730e171e-43be
 
 ## Result
 
-This clickable prototype fits into a larger UX content strategy that prioritizes clean, efficient information, adherence to a consistent style guide, and thorough organization. A knowledge base system would greatly improve VirtualBox's website and documentation, allowing users to find information more efficiently. 
+This clickable prototype fits into a larger UX content strategy that prioritizes clean, efficient information, adherence to a consistent style guide, single-sourced content, and a thorough organization of its information architecture. A knowledge base system would greatly improve VirtualBox's website and documentation, allowing users to find information more efficiently. 
