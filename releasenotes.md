@@ -26,7 +26,9 @@ We added a dozen new campaign templates to make your marketing campaigns pop! Yo
 
 ## Bug Fixes 
 - **Search Functionality**
+
 We fixed the search functioning for locating a vintage item by region.
 
 - **Checkout Functionging**
+
 The bag checkout function was down for several clients. We fixed the bug issue and users can now see all items in their shopping cart without errors.
