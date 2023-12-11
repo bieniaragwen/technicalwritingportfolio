@@ -25,7 +25,7 @@ Develop a knowledge base website prototype for VirtualBox's documentation to sho
 Within this clickable 
 
 ## Clickable Wireframes
-Click **[here]**(https://xd.adobe.com/view/16edc068-d9ec-4343-af68-c946730e171e-43be/) to see a walkthrough of clickable wireframes from VirtualBox's newly imagined knowledge base website. 
+Click [**here**](https://xd.adobe.com/view/16edc068-d9ec-4343-af68-c946730e171e-43be/) to see a walkthrough of clickable wireframes from VirtualBox's newly imagined knowledge base website. 
 
 **Note:** Some wireframes contain different viewable porportion sizes for the sake of perspective.
 
