@@ -16,10 +16,10 @@ This feature contains a set of tools allowing you to create targeted marketing c
 This feature allows you to schedule email and in-app targeted marketing campaigns, promotions, sales, and events.
 
 ### Improvements
--**Third-Party Applications**
+- **Third-Party Applications**
 
 We have added five new third-party applications to integrate with the Campaign Scheduler. These range from live storytelling tools, GIF makers, and cross-posting to social media platforms.
 
--**New Campaign Templates** 
+- **New Campaign Templates** 
 
 We have added new campaign templates to make your marketing campaigns pop! You can customize them to your branding guidelines as needed.
