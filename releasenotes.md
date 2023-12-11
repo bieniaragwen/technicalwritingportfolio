@@ -6,7 +6,7 @@ This document contains release notes for FindaDress, a fictional application tha
 
 ## 2023-16-03 
 
-### New Features
+## New Features
 - **Testing and Analytics**
 
 This feature contains a set of tools allowing you to create targeted marketing campaign tests. You can monitor customer engagement with your ad listings, track real-time data, and generate paginated and dashboard reports.
@@ -15,7 +15,7 @@ This feature contains a set of tools allowing you to create targeted marketing c
 
 This feature allows you to schedule email and in-app targeted marketing campaigns, promotions, sales, and events.
 
-### Improvements
+## Improvements
 - **Third-Party Applications**
 
 We have added five new third-party applications to integrate with the Campaign Scheduler. These range from live storytelling tools, GIF makers, and cross-posting to social media platforms.
