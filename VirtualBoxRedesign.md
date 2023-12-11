@@ -20,3 +20,9 @@ Develop a knowledge base website prototype for VirtualBox's documentation to sho
 
 <img width="239" alt="knowledgebase1" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/b82fcec5-0d68-4dfe-babd-7371b91e243d">
 <img width="239" alt="knowledge base documentation" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/c400ae11-9be4-4c7c-9792-3b74fb8cfc50">
+<img width="241" alt="KB topic 1" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/58c6c219-fbce-444c-a535-6af4e42c45d3">
+
+Within this clickable 
+
+## Clickable Wireframes
+[VirtualBox's New Knowledge Base Help System and Website](https://xd.adobe.com/view/16edc068-d9ec-4343-af68-c946730e171e-43be/)
