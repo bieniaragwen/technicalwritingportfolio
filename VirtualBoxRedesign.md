@@ -13,8 +13,10 @@ The current documentation site contains an outdated navigation system, making it
 
 ## Solution 
 
-Develop a knowledge base website prototype for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience. 
+Develop a knowledge base website prototype for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience. This prototype would hypothetically include a robust search engine, and an intuitive portal leading users or all skill levels to relevant forms of documentation. 
 
 
 ## After
 
+<img width="239" alt="knowledgebase1" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/b82fcec5-0d68-4dfe-babd-7371b91e243d">
+<img width="239" alt="knowledge base documentation" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/c400ae11-9be4-4c7c-9792-3b74fb8cfc50">
