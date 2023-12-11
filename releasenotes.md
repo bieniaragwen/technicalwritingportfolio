@@ -18,8 +18,15 @@ This feature allows you to schedule email and in-app targeted marketing campaign
 ## Improvements
 - **Third-Party Applications**
 
-We have added five new third-party applications to integrate with the Campaign Scheduler. These range from live storytelling tools, GIF makers, and cross-posting to social media platforms.
+We added five new third-party applications to integrate with the Campaign Scheduler. These range from live storytelling tools, GIF makers, and cross-posting to social media platforms.
 
 - **New Campaign Templates** 
 
-We have added new campaign templates to make your marketing campaigns pop! You can customize them to your branding guidelines as needed.
+We added a dozen new campaign templates to make your marketing campaigns pop! You can customize them to your company's branding guidelines as needed.
+
+## Bug Fixes 
+- **Search Functionality**
+We fixed the search functioning for locating a vintage item by region.
+
+- **Checkout Functionging**
+The bag checkout function was down for several clients. We fixed the bug issue and users can now see all items in their shopping cart without errors.
