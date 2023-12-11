@@ -7,8 +7,8 @@ Oracle VM VirtualBox's documentation site is poorly written, disorganized, and i
 ## Before
 The current documentation site contains an outdated navigation system, making it difficult for readers to find the information they are looking for.
 
-<img width="963" alt="km 1st" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/760c7a4a-a9e4-459f-b2cc-b3fbc75b75bc">
 <img width="581" alt="virrtualboxbefore" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/1117ae5b-4355-49ed-bb59-85b131b60b9d">
+<img width="581" alt="virtualbox before 2" src="https://github.com/bieniaragwen/technicalwritingportfolio/assets/152110486/fedb246e-d32f-438a-874c-1ea7757fccc2">
 
 
 ## Solution 
