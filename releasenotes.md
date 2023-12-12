@@ -2,7 +2,7 @@
 
 ## About 
 
-This document contains release notes for FindaDress, a fictional application that allows users to buy and sell vintage clothing.
+This document contains release notes for Find a Dress, a fictional application that allows users to buy and sell vintage clothing.
 
 ## 2023-16-03 
 
