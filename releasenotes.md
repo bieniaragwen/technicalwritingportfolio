@@ -27,7 +27,7 @@ We added a dozen new campaign templates to make your marketing campaigns pop! Yo
 ## Bug Fixes 
 - **Search by Region**
 
-We fixed the bug affecting locating a vintage item on a map.
+We fixed a reported issue that prevented users from locating a vintage item on a map. 
 
 - **Checkout Feature**
 
