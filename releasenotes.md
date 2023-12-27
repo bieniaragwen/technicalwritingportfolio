@@ -25,9 +25,9 @@ We added five new third-party applications to integrate with the Campaign Schedu
 We added a dozen new campaign templates to make your marketing campaigns pop! You can customize them to your company's branding guidelines as needed.
 
 ## Bug Fixes 
-- **Search Functionality**
+- **Search by Region**
 
-We fixed the search functioning for locating a vintage item by region.
+We fixed the bug affecting locating a vintage item on a map.
 
 - **Checkout Feature**
 
