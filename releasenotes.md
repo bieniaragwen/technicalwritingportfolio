@@ -27,8 +27,8 @@ We added a dozen new campaign templates to make your marketing campaigns pop! Yo
 ## Bug Fixes 
 - **Search by Region**
 
-We fixed a reported issue that prevented users from locating a vintage item on a map. 
+The search function was down for several clients. We fixed a reported issue that prevented users from locating a vintage item on a map. 
 
 - **Checkout Feature**
 
-The bag checkout feature was down for several clients. We fixed the bug issue and users can now see all items in their shopping cart without errors.
+The bag checkout feature was down for several clients. We fixed a reported bug issue and users can now see all items in their shopping cart without errors.
