@@ -1,2 +1,0 @@
-# DITA Structured Authoring 
-
