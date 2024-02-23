@@ -22,7 +22,7 @@ We added five new third-party applications to integrate with the Campaign Schedu
 
 - **New Campaign Templates** 
 
-We added a dozen new campaign templates to make your marketing campaigns pop! You can customize them to your company's branding guidelines as needed.
+We added a dozen new marketing campaign templates. You can customize them to your company's branding guidelines as needed.
 
 ## Bug Fixes 
 - **Search by Region**
@@ -31,4 +31,4 @@ The search function was down for several clients. We fixed a reported issue that
 
 - **Checkout Feature**
 
-The bag checkout feature was down for several clients. We fixed a reported bug issue and users can now see all items in their shopping cart without errors.
+The checkout feature was down for several clients. The reported bug issue is fixed. Users can see all items in their shopping cart checkout page without errors.
