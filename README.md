@@ -1,7 +1,7 @@
 # Gwen Bieniara's Technical Writing Portfolio
 -------
 
-This respository contains my technical writing portfolio. Included are several documents that showcase my technical communication skillsets in unstructured authoring, knowledge base content creation, design prototyping, and technical editing.
+This respository contains my technical writing portfolio. Included are several documents that showcase my technical communication skillsets in unstructured authoring, knowledge base creation, design prototyping, and technical editing.
 
 -----------
 
