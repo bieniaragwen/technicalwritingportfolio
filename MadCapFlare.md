@@ -1,6 +1,6 @@
 # MadCap Flare HTML5 Output 
 
-This page contains screenshot examples of a user guide written in MadCap Flare with an HTML 5 output. 
+This page contains screenshot examples of a user guide help system produced in MadCap Flare with an HTML 5 output. 
 
 Example 1
 ---------
