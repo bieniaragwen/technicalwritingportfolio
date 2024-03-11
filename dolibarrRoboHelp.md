@@ -1,4 +1,5 @@
-# Adobe RoboHelp Help System — Dolibarr Open Source ERP and CRM User Guide
+# Adobe RoboHelp Help System 
+## Dolibarr Open Source ERP and CRM User Guide
 
 The following screenshots contain examples of a help system produced with Adobe RoboHelp with an HTML5 output.
 
