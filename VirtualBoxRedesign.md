@@ -13,7 +13,7 @@ The [current documentation](https://www.virtualbox.org/manual/) site contains an
 
 ## Solution 
 
-Develop a knowledge base website prototype for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience. This prototype would hypothetically include a robust search engine, and an intuitive portal leading users or all skill levels to relevant forms of documentation. 
+Develop a knowledge base website prototype for VirtualBox's documentation to showcase how a knowledge management system could improve the user experience. This prototype would hypothetically include a robust search engine, and an intuitive portal leading users of all skill levels to relevant forms of documentation. 
 
 
 ## After
